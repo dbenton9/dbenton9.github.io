@@ -1,0 +1,44 @@
+header {
+	background-color: #ffffff;
+	/*width: 100%;*/
+	font-family: 'Georgia', Times, serif;
+	
+
+	padding: 20px;
+
+	border-bottom: 3px solid;
+	border-color: #cccccc;
+}
+
+h1 {
+	margin-left: 35px;
+	display: inline;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	font-family: 'Georgia', Times, serif;
+	padding: 19px;
+	
+} 
+
+nav {
+	float:right;
+	margin-right:90px;
+}
+
+footer {
+	background-color: #4aaaa5;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	padding: 20px;
+}
+
+.mainBody {
+	background-image: url("../images/concrete.png")
+}
+
+#mainContent {
+	margin-left: 35px;
+}
